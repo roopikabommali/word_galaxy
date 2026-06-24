@@ -1,8 +1,7 @@
 # 🌌 WordGalaxy
 
 Live Demo:
-https://your-project-name.netlify.app
-
+https://roopikabommali.github.io/word_galaxy/
 Features:
 - Word Search
 - Favorites
