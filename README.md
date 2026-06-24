@@ -1,15 +1,15 @@
 # 🌌 WordGalaxy
 
-A Flutter-based vocabulary learning app with quizzes, streaks, badges, and more.
+Live Demo:
+https://your-project-name.netlify.app
 
-## Features
-- 📚 Word search & definitions
-- ❤️ Favorites list
-- 🏆 Quiz mode
-- 📊 Progress tracking
-- 🔥 Streak system
-- 🎖️ Badges & achievements
-
-## Getting Started
-flutter pub get
-flutter run
+Features:
+- Word Search
+- Favorites
+- History
+- Word Of The Day
+- Quiz System
+- XP & Levels
+- Streak Tracking
+- Badges
+- Progress Dashboard
